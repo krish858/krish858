@@ -8,6 +8,12 @@
 - ⚡ Fun fact: Once A person entered Vim and never came back.
 
 <br/>
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=krish858&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
+<br/>
 
 
 <!--<table>-->
