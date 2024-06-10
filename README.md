@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Krish But
+# Hello there 👋, I'm Krish 
 
 ### Software/Cybesec Engineer
 
