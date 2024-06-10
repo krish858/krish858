@@ -1,8 +1,8 @@
 # Hello there 👋, I'm Krish But
 
-### Software/DevOps/Cloud Engineer
+### Software/Cybesec Engineer
 
-- 🔭 I’m currently working on: __Fullstack & cybersec Engineering__
+- 🔭 I’m currently working on: __Web & Android  Engineering__
 - 🌱 I’m currently learning: __Devops,Android Dev__
 - 💬 Let's talk about __DevOps, SRE, Cloud Engineering (AWS), Docker, Kubernetes, Software Dev...__
 - ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
