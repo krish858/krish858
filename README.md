@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: __Web & Android  Engineering__
 - 🌱 I’m currently learning: __Devops,Android Dev__
 - 💬 Let's talk about __DevOps, SRE, Cloud Engineering (AWS), Docker, Kubernetes, Software Dev...__
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
+- ⚡ Fun fact: Once A person entered Vim and never came back.
 
 <br/>
 
