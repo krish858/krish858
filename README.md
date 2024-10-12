@@ -1,5 +1,5 @@
 # Hello there 👋, I'm Krish 
-### Software/Cybesec Engineer
+### Software/Cybersec Engineer
 
 - 🔭 I’m currently working on: __Web & Android  Engineering__
 - 🌱 I’m currently learning: __Devops,Android Dev__
