@@ -37,7 +37,7 @@
 <br />
 
  <p align="center"> 
-<img src="https://skillicons.dev/icons?i=aws,bash,java,c,cpp,cloudflare,css,devto,discord,docker,express,figma,firebase,gcp,git,github,githubactions,gitlab,heroku,html,js,ts,linux,arch,mongodb,vim,neovim,netlify,nextjs,nginx,nodejs,postgres,postman,py,react,replit,rust,prisma,mysql,stackoverflow,supabase,solidity,svg,tailwind,twitter,vercel,vite,workers&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,bash,java,c,cpp,cloudflare,css,devto,discord,docker,express,figma,firebase,gcp,git,github,githubactions,gitlab,heroku,html,js,ts,linux,arch,mongodb,vim,neovim,netlify,nextjs,nginx,nodejs,npm,postgres,postman,py,react,replit,rust,prisma,mysql,stackoverflow,supabase,solidity,materialui,tailwind,vercel,vite,workers&perline=8&theme=dark" />
 </p
 
 
